@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\jose.pech\source\repos\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploChainOfResponsability\ChainofResponsibility\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
